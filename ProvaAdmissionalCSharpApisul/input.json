@@ -1,0 +1,265 @@
+  /*
+  JSON GENERATOR CODE (https://extendsclass.com/json-generator.html)
+  {
+    "Respostas": 
+	    repeat(50, {
+          "Andar": random(0, 15),
+          "Elevador": choice("A","B","C","D", "E"),
+          "Periodo": choice("M","V","N")
+        })
+  }  
+  */
+{
+  "Respostas": [
+    {
+      "Andar": "5",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "B",
+      "Periodo": "N"
+    }
+  ]
+}

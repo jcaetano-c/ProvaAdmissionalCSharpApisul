@@ -105,17 +105,61 @@ namespace ProvaAdmissionalCSharpApisul
 
         public List<char> periodoMaiorFluxoElevadorMaisFrequentado()
         {
-            throw new NotImplementedException();
+            List<char> periodoMaiorFluxoElevadorMaisFrequentado = new List<char>();
+            List<char> elevador = elevadorMaisFrequentado();
+
+            foreach (var item in elevador)
+            {
+                int matutino = Respostas.Respostas.Count(n => n.Elevador == item && n.Periodo == 'M');
+                int vespertino = Respostas.Respostas.Count(n => n.Elevador == item && n.Periodo == 'V');
+                int noturno = Respostas.Respostas.Count(n => n.Elevador == item && n.Periodo == 'N');
+
+                if (matutino > vespertino && matutino > noturno)
+                    periodoMaiorFluxoElevadorMaisFrequentado.Add('M');
+                else if (vespertino > matutino && vespertino > noturno)
+                    periodoMaiorFluxoElevadorMaisFrequentado.Add('V');
+                else
+                    periodoMaiorFluxoElevadorMaisFrequentado.Add('N');
+            }
+
+            return periodoMaiorFluxoElevadorMaisFrequentado;
         }
 
         public List<char> periodoMaiorUtilizacaoConjuntoElevadores()
         {
-            throw new NotImplementedException();
+            List<char> periodoMaiorUtilizacaoConjuntoElevadores = new List<char>();
+            char[] periodos = { 'M', 'V', 'N' };
+
+            for (int i = 0; i < 3; i++)
+            {
+                int count = Respostas.Respostas.Count(n => n.Periodo == periodos[i]);
+                if (count >= MediaPeriodos)
+                    periodoMaiorUtilizacaoConjuntoElevadores.Add(periodos[i]);
+            }
+
+            return periodoMaiorUtilizacaoConjuntoElevadores;
         }
 
         public List<char> periodoMenorFluxoElevadorMenosFrequentado()
         {
-            throw new NotImplementedException();
+            List<char> periodoMenorFluxoElevadorMenosFrequentado = new List<char>();
+            List<char> elevador = elevadorMenosFrequentado();
+
+            foreach (var item in elevador)
+            {
+                int matutino = Respostas.Respostas.Count(n => n.Elevador == item && n.Periodo == 'M');
+                int vespertino = Respostas.Respostas.Count(n => n.Elevador == item && n.Periodo == 'V');
+                int noturno = Respostas.Respostas.Count(n => n.Elevador == item && n.Periodo == 'N');
+
+                if (matutino < vespertino && matutino < noturno)
+                    periodoMenorFluxoElevadorMenosFrequentado.Add('M');
+                else if (vespertino < matutino && vespertino < noturno)
+                    periodoMenorFluxoElevadorMenosFrequentado.Add('V');
+                else
+                    periodoMenorFluxoElevadorMenosFrequentado.Add('N');
+            }
+
+            return periodoMenorFluxoElevadorMenosFrequentado;
         }
     }
 }

@@ -49,6 +49,31 @@ namespace ProvaAdmissionalCSharpApisul
             }
             Console.WriteLine("");
 
+            Console.WriteLine("Periodo maior fluxo...");
+            List<char> periodoMaiorFluxoElevadorMaisFrequentado = elevador.periodoMaiorFluxoElevadorMaisFrequentado();
+            foreach (var item in periodoMaiorFluxoElevadorMaisFrequentado)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("");
+
+            Console.WriteLine("Periodo menor fluxo...");
+            List<char> periodoMenorFluxoElevadorMenosFrequentado = elevador.periodoMenorFluxoElevadorMenosFrequentado();
+            foreach (var item in periodoMenorFluxoElevadorMenosFrequentado)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("");
+
+            Console.WriteLine("Periodo maior utilização em conjunto...");
+            List<char> periodoMaiorUtilizacaoConjuntoElevadores = elevador.periodoMaiorUtilizacaoConjuntoElevadores();
+            foreach (var item in periodoMaiorUtilizacaoConjuntoElevadores)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("");
+
+
             Console.Write("Percentual de uso do Elevador A... ");
             float percentualDeUsoElevadorA = elevador.percentualDeUsoElevadorA();
             Console.WriteLine(percentualDeUsoElevadorA + "%");

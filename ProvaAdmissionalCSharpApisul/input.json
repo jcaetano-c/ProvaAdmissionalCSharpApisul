@@ -12,109 +12,64 @@
 {
   "Respostas": [
     {
-      "Andar": "5",
-      "Elevador": "B",
+      "Andar": "12",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "D",
       "Periodo": "M"
-    },
-    {
-      "Andar": "7",
-      "Elevador": "A",
-      "Periodo": "V"
-    },
-    {
-      "Andar": "15",
-      "Elevador": "A",
-      "Periodo": "V"
     },
     {
       "Andar": "10",
-      "Elevador": "B",
+      "Elevador": "E",
       "Periodo": "M"
     },
     {
-      "Andar": "15",
-      "Elevador": "A",
+      "Andar": "11",
+      "Elevador": "E",
       "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "E",
+      "Periodo": "M"
     },
     {
       "Andar": "4",
-      "Elevador": "B",
+      "Elevador": "E",
       "Periodo": "V"
-    },
-    {
-      "Andar": "11",
-      "Elevador": "A",
-      "Periodo": "V"
-    },
-    {
-      "Andar": "5",
-      "Elevador": "A",
-      "Periodo": "N"
-    },
-    {
-      "Andar": "7",
-      "Elevador": "A",
-      "Periodo": "M"
-    },
-    {
-      "Andar": "1",
-      "Elevador": "A",
-      "Periodo": "M"
-    },
-    {
-      "Andar": "1",
-      "Elevador": "B",
-      "Periodo": "N"
-    },
-    {
-      "Andar": "1",
-      "Elevador": "A",
-      "Periodo": "M"
-    },
-    {
-      "Andar": "5",
-      "Elevador": "A",
-      "Periodo": "N"
-    },
-    {
-      "Andar": "1",
-      "Elevador": "A",
-      "Periodo": "V"
-    },
-    {
-      "Andar": "12",
-      "Elevador": "A",
-      "Periodo": "V"
-    },
-    {
-      "Andar": "7",
-      "Elevador": "A",
-      "Periodo": "N"
-    },
-    {
-      "Andar": "3",
-      "Elevador": "A",
-      "Periodo": "M"
-    },
-    {
-      "Andar": "11",
-      "Elevador": "A",
-      "Periodo": "N"
     },
     {
       "Andar": "13",
       "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "C",
       "Periodo": "V"
     },
     {
-      "Andar": "11",
-      "Elevador": "A",
-      "Periodo": "V"
+      "Andar": "1",
+      "Elevador": "E",
+      "Periodo": "M"
     },
     {
-      "Andar": "9",
+      "Andar": "14",
       "Elevador": "A",
-      "Periodo": "V"
+      "Periodo": "M"
     },
     {
       "Andar": "15",
@@ -122,59 +77,364 @@
       "Periodo": "V"
     },
     {
-      "Andar": "8",
+      "Andar": "14",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "9",
       "Elevador": "B",
       "Periodo": "M"
     },
     {
       "Andar": "14",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "5",
       "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "E",
       "Periodo": "N"
     },
     {
       "Andar": "8",
-      "Elevador": "A",
+      "Elevador": "C",
       "Periodo": "N"
     },
     {
-      "Andar": "7",
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
       "Elevador": "A",
       "Periodo": "M"
     },
     {
-      "Andar": "7",
-      "Elevador": "B",
-      "Periodo": "V"
+      "Andar": "1",
+      "Elevador": "E",
+      "Periodo": "M"
     },
     {
-      "Andar": "1",
-      "Elevador": "A",
-      "Periodo": "N"
-    },
-    {
-      "Andar": "1",
-      "Elevador": "B",
+      "Andar": "15",
+      "Elevador": "C",
       "Periodo": "V"
     },
     {
       "Andar": "10",
       "Elevador": "B",
-      "Periodo": "M"
-    },
-    {
-      "Andar": "1",
-      "Elevador": "A",
-      "Periodo": "V"
-    },
-    {
-      "Andar": "10",
-      "Elevador": "A",
-      "Periodo": "M"
+      "Periodo": "N"
     },
     {
       "Andar": "4",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
       "Elevador": "B",
       "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "B",
+      "Periodo": "V"
     },
     {
       "Andar": "2",
@@ -182,13 +442,1113 @@
       "Periodo": "V"
     },
     {
-      "Andar": "12",
+      "Andar": "11",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "5",
       "Elevador": "A",
       "Periodo": "V"
     },
     {
+      "Andar": "2",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
       "Andar": "8",
       "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "E",
       "Periodo": "N"
     },
     {
@@ -198,33 +1558,128 @@
     },
     {
       "Andar": "9",
-      "Elevador": "A",
+      "Elevador": "E",
       "Periodo": "N"
     },
     {
-      "Andar": "3",
+      "Andar": "4",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
       "Elevador": "B",
       "Periodo": "M"
     },
     {
-      "Andar": "8",
-      "Elevador": "B",
-      "Periodo": "M"
+      "Andar": "13",
+      "Elevador": "E",
+      "Periodo": "N"
     },
     {
-      "Andar": "14",
-      "Elevador": "A",
+      "Andar": "5",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
       "Periodo": "M"
     },
     {
       "Andar": "15",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
       "Elevador": "B",
       "Periodo": "V"
     },
     {
-      "Andar": "8",
+      "Andar": "1",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "13",
       "Elevador": "A",
       "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "E",
+      "Periodo": "M"
     },
     {
       "Andar": "7",
@@ -232,9 +1687,634 @@
       "Periodo": "V"
     },
     {
-      "Andar": "8",
+      "Andar": "13",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
       "Elevador": "B",
       "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "7",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "1",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "0",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "5",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "C",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "D",
+      "Periodo": "M"
     },
     {
       "Andar": "12",
@@ -242,24 +2322,194 @@
       "Periodo": "V"
     },
     {
-      "Andar": "14",
+      "Andar": "7",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "3",
       "Elevador": "B",
       "Periodo": "N"
     },
     {
-      "Andar": "5",
+      "Andar": "14",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "15",
       "Elevador": "A",
       "Periodo": "V"
     },
     {
-      "Andar": "5",
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "12",
+      "Elevador": "C",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "3",
+      "Elevador": "E",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "A",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "D",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "11",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "4",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "13",
       "Elevador": "B",
       "Periodo": "V"
     },
     {
+      "Andar": "14",
+      "Elevador": "E",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "9",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "M"
+    },
+    {
+      "Andar": "10",
+      "Elevador": "B",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "E",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "D",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "15",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "2",
+      "Elevador": "B",
+      "Periodo": "M"
+    },
+    {
       "Andar": "11",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "7",
       "Elevador": "B",
       "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "A",
+      "Periodo": "V"
+    },
+    {
+      "Andar": "13",
+      "Elevador": "D",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "14",
+      "Elevador": "C",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "8",
+      "Elevador": "B",
+      "Periodo": "N"
+    },
+    {
+      "Andar": "6",
+      "Elevador": "A",
+      "Periodo": "V"
     }
   ]
 }

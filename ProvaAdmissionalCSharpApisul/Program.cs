@@ -1,8 +1,5 @@
 ﻿using Newtonsoft.Json;
 using ProvaAdmissionalCSharpApisul.Models;
-using System;
-using System.IO;
-using System.Reflection;
 
 namespace ProvaAdmissionalCSharpApisul
 {
@@ -10,17 +7,20 @@ namespace ProvaAdmissionalCSharpApisul
     {
         public static void Main()
         {
-            //string path = "C:\\Users\\jairo\\Projetos\\ProvaAdmissionalCSharpApisul\\ProvaAdmissionalCSharpApisul\\";
-            //StreamReader input = new StreamReader(path + "input.json");
+            Console.Write("Informe o caminho do arquivo input.json: ");
+            string path = Console.ReadLine();
+            StreamReader input = new StreamReader(path);
+            //"C:\Users\jairo\Projetos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\input.json";
 
-            StreamReader input = new StreamReader("..\\..\\..\\input.json");
             string jsonString = input.ReadToEnd();
             ListaDeRespostas levantamento = JsonConvert.DeserializeObject<ListaDeRespostas>(jsonString);
 
             if (levantamento == null)
             {
-                Console.WriteLine("O arquivo está vazio.");
-                return ;
+                Console.WriteLine("O ARQUIVO 'input.json' ESTÁ VAZIO.");
+                Console.WriteLine("ENCERRANDO O PROGRAMA...");
+                Thread.Sleep(5000);
+                Environment.Exit(0);
             }
 
             var elevador = new Elevador(levantamento);
@@ -31,7 +31,7 @@ namespace ProvaAdmissionalCSharpApisul
             {
                 Console.WriteLine(item);
             }
-            Console.WriteLine("");
+            Console.WriteLine();
 
             Console.WriteLine("Elevador mais utilizado...");
             List<char> elevadorMaisFrequentado = elevador.elevadorMaisFrequentado();
@@ -39,7 +39,7 @@ namespace ProvaAdmissionalCSharpApisul
             {
                 Console.WriteLine(item);
             }
-            Console.WriteLine("");
+            Console.WriteLine();
 
             Console.WriteLine("Elevador menos utilizado...");
             List<char> elevadorMenosFrequentado = elevador.elevadorMenosFrequentado();
@@ -47,7 +47,7 @@ namespace ProvaAdmissionalCSharpApisul
             {
                 Console.WriteLine(item);
             }
-            Console.WriteLine("");
+            Console.WriteLine();
 
             Console.WriteLine("Periodo maior fluxo...");
             List<char> periodoMaiorFluxoElevadorMaisFrequentado = elevador.periodoMaiorFluxoElevadorMaisFrequentado();
@@ -55,7 +55,7 @@ namespace ProvaAdmissionalCSharpApisul
             {
                 Console.WriteLine(item);
             }
-            Console.WriteLine("");
+            Console.WriteLine();
 
             Console.WriteLine("Periodo menor fluxo...");
             List<char> periodoMenorFluxoElevadorMenosFrequentado = elevador.periodoMenorFluxoElevadorMenosFrequentado();
@@ -63,7 +63,7 @@ namespace ProvaAdmissionalCSharpApisul
             {
                 Console.WriteLine(item);
             }
-            Console.WriteLine("");
+            Console.WriteLine();
 
             Console.WriteLine("Periodo maior utilização em conjunto...");
             List<char> periodoMaiorUtilizacaoConjuntoElevadores = elevador.periodoMaiorUtilizacaoConjuntoElevadores();
@@ -71,7 +71,7 @@ namespace ProvaAdmissionalCSharpApisul
             {
                 Console.WriteLine(item);
             }
-            Console.WriteLine("");
+            Console.WriteLine();
 
 
             Console.Write("Percentual de uso do Elevador A... ");

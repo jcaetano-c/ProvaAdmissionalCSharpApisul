@@ -1,15 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProvaAdmissionalCSharpApisul.Models
+﻿namespace ProvaAdmissionalCSharpApisul.Models
 {
-    public class Levantamento
+    public partial class ListaDeRespostas
     {
+        public List<Resposta> Respostas { get; set; }
+    }
+
+    public partial class Resposta
+    {
+        public short Andar { get; set; }
         public char Elevador { get; set; }
-        public int Andar{ get; set; }
-        public char Periodo{ get; set; }
+        public char Periodo { get; set; }
     }
 }

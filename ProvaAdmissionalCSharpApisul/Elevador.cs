@@ -1,19 +1,17 @@
 ﻿using ProvaAdmissionalCSharpApisul.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProvaAdmissionalCSharpApisul
 {
     public class Elevador : IElevadorService
     {
-        ListaDeRespostas Respostas { get; set; }
-        public int MediaAndares { get; set; }
-        public int MediaElevadores { get; set; }
-        public int MediaPeriodos { get; set; }
-        public int QuantidadeDeRespostas { get; set; }
+        ListaDeRespostas Respostas { get; }
+        public int MediaAndares { get; }
+        public int MediaElevadores { get; }
+        public int MediaPeriodos { get; }
+        public int QuantidadeDeRespostas { get; }
+
+        private char[] elevadores = { 'A', 'B', 'C', 'D', 'E' };
+        private char[] periodos = { 'M', 'V', 'N' };
         public Elevador(ListaDeRespostas respostas)
         {
             Respostas = respostas;
@@ -38,67 +36,62 @@ namespace ProvaAdmissionalCSharpApisul
 
         public List<char> elevadorMaisFrequentado()
         {
-            List<char> elevadorMaisFrequentado = new List<char>();
-            char[] elevadores = { 'A', 'B', 'C', 'D', 'E' };
-
-            for (int i = 0; i < 5; i++)
-            {
-                int count = Respostas.Respostas.Count(n => n.Elevador == elevadores[i]);
-                if (count >= MediaElevadores)
-                    elevadorMaisFrequentado.Add(elevadores[i]);
-                //Console.WriteLine($"Elevador: {elevadores[i]} é usado em média {count} vezes.");
-            }
-
-            return elevadorMaisFrequentado;
+            return obterFrequencia(true);
         }
 
         public List<char> elevadorMenosFrequentado()
         {
-            List<char> elevadorMenosFrequentado = new List<char>();
-            char[] elevadores = { 'A', 'B', 'C', 'D', 'E' };
+            return obterFrequencia(false);
+        }
+
+        private List<char> obterFrequencia(bool maisUtilizado)
+        {
+            List<char> frequencia = new List<char>();
 
             for (int i = 0; i < 5; i++)
             {
                 int count = Respostas.Respostas.Count(n => n.Elevador == elevadores[i]);
-                if (count < MediaElevadores)
-                    elevadorMenosFrequentado.Add(elevadores[i]);
-                //Console.WriteLine($"Elevador: {elevadores[i]} é usado em média {count} vezes.");
+                if (!maisUtilizado && count < MediaElevadores)
+                    frequencia.Add(elevadores[i]);
+                if (maisUtilizado && count >= MediaElevadores)
+                    frequencia.Add(elevadores[i]);
             }
-
-            return elevadorMenosFrequentado;
+            return frequencia;
         }
 
         public float percentualDeUsoElevadorA()
         {
-            int count = Respostas.Respostas.Count(n => n.Elevador == 'A');
-            float porcentagem = (count * 100) / QuantidadeDeRespostas;
-            return porcentagem;
+            return obterPercentual('A');
         }
 
         public float percentualDeUsoElevadorB()
         {
-            int count = Respostas.Respostas.Count(n => n.Elevador == 'B');
-            float porcentagem = (count * 100) / QuantidadeDeRespostas;
-            return porcentagem;
+            return obterPercentual('B');
         }
 
         public float percentualDeUsoElevadorC()
         {
-            int count = Respostas.Respostas.Count(n => n.Elevador == 'C');
-            float porcentagem = (count * 100) / QuantidadeDeRespostas;
-            return porcentagem;
+            return obterPercentual('C');
         }
 
         public float percentualDeUsoElevadorD()
         {
-            int count = Respostas.Respostas.Count(n => n.Elevador == 'D');
-            float porcentagem = (count * 100) / QuantidadeDeRespostas;
-            return porcentagem;
+            return obterPercentual('D');
         }
 
         public float percentualDeUsoElevadorE()
         {
-            int count = Respostas.Respostas.Count(n => n.Elevador == 'E');
+            return obterPercentual('E');
+        }
+
+        private float obterPercentual(char elevador)
+        {
+            if (Array.IndexOf(elevadores, elevador) < 0)
+            {
+                throw new Exception("Elevador inválido.");
+                return 0;
+            }
+            float count = Respostas.Respostas.Count(n => n.Elevador == elevador);
             float porcentagem = (count * 100) / QuantidadeDeRespostas;
             return porcentagem;
         }
@@ -128,7 +121,6 @@ namespace ProvaAdmissionalCSharpApisul
         public List<char> periodoMaiorUtilizacaoConjuntoElevadores()
         {
             List<char> periodoMaiorUtilizacaoConjuntoElevadores = new List<char>();
-            char[] periodos = { 'M', 'V', 'N' };
 
             for (int i = 0; i < 3; i++)
             {
